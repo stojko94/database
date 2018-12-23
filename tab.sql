@@ -1,0 +1,6 @@
+1,"Erik","Stojkoviè",24,"Orlek","Sežana","Slovenija"
+2,"Matjaž","Rener",12,"Sežana","Sežana","Slovenija"
+4,"Branko","Božiè",55,"Sežana","Sežana","Slovenija"
+5,"Matej","Tomažev",51,"Orlek","Sežana","Slovenija"
+3,"Lojze","Marjanovic",20,"Storje","Sezana","Slovenija"
+6,"Alan","Novak",40,"Lokev","Sežana","Slovenija"
