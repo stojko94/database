@@ -1,0 +1,12 @@
+INSERT INTO ROOT.PEOPLE1 (ID, name, surname, age, adress, city, state)
+VALUES (1,'Erik','Stojkoviè',24,'Orlek','Sežana','Slovenija');
+INSERT INTO ROOT.PEOPLE1 (ID, name, surname, age, adress, city, state)
+VALUES (2,'Matjaž','Rener',12,'Sežana','Sežana','Slovenija');
+INSERT INTO ROOT.PEOPLE1 (ID, name, surname, age, adress, city, state)
+VALUES (3,'Branko','Božiè',55,'Sežana','Sežana','Slovenija');
+INSERT INTO ROOT.PEOPLE1 (ID, name, surname, age, adress, city, state)
+VALUES (4,'Lojze','Marjanovic',20,'Storje','Sezana','Slovenija');
+INSERT INTO ROOT.PEOPLE1 (ID, name, surname, age, adress, city, state)
+VALUES (5,'Matej','Tomažev',51,'Orlek','Sežana','Slovenija');
+INSERT INTO ROOT.PEOPLE1 (ID, name, surname, age, adress, city, state)
+VALUES (6,'Alan','Novak',40,'Lokev','Sežana','Slovenija');
